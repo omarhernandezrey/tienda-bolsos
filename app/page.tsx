@@ -15,6 +15,70 @@ const products = [
     price: 200000,
     image: '/images/bolso2.jpg',
   },
+
+  {
+    id: '3',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+  {
+    id: '4',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+  {
+    id: '5',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+  {
+    id: '6',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+
+  {
+    id: '7',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+
+  {
+    id: '8',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+  {
+    id: '9',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+  {
+    id: '10',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
+
+  {
+    id: '11',
+    name: 'Bolso moderno',
+    price: 200000,
+    image: '/images/bolso2.jpg',
+  },
   // Agrega más productos si lo deseas
 ];
 
