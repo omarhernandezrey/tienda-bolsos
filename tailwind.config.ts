@@ -7,7 +7,16 @@ const config: Config = {
     './components/**/*.{js,ts,jsx,tsx}', // Y esta también
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#FF6B6B',
+        secondary: '#4ECDC4',
+        accent: '#FFE66D',
+      },
+      fontFamily: {
+        sans: ['Montserrat', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 };
